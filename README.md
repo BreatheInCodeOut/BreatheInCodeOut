@@ -1,4 +1,11 @@
-### Hi there 👋
+
+Current Role: Project Manager/Full Stack Developer
+
+Skills: Angular, SCSS, C#, VB.Net, Entity Framework, SQL Server, javascript, jQuery, Bootstrap, CSS, HTML, SSIS, SSRS, VB6, VB Script, Classic ASP...
+
+Coding Hobbies: Love to create javascript Games
+
+Coding Motto: Optmize & Re-use {Be Lazy to type tons of code but be smart to optimize them into smaller chunks}
 
 <!--
 **MatrixParticle/MatrixParticle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
