@@ -1,5 +1,5 @@
 
-Current Role: Project Manager/Full Stack Developer
+Current Role: Engineering Manager
 
 Skills: Angular, SCSS, C#, VB.Net, Entity Framework, SQL Server, javascript, jQuery, Bootstrap, CSS, HTML, SSIS, SSRS, VB6, VB Script, Classic ASP...
 
