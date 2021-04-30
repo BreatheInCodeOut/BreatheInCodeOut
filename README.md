@@ -1,8 +1,1 @@
-
-Current Role: Engineering Manager
-
-Skills: Angular, SCSS, C#, VB.Net, Entity Framework, SQL Server, javascript, jQuery, Bootstrap, CSS, HTML, SSIS, SSRS, VB6, VB Script, Classic ASP...
-
-Coding Hobbies: Like to create javascript games
-
-Coding Motto: Optimize & Re-use {Be Lazy to type tons of code but be smart to optimize them into smaller chunks}
+![ProfileReadMe](https://user-images.githubusercontent.com/83390923/116661059-7f00da80-a9b1-11eb-817e-f6e117834fad.png)
