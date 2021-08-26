@@ -1,2 +1,2 @@
-![ProfileReadMe](https://user-images.githubusercontent.com/83390923/128890946-0a1eea06-3112-4019-adc0-d6a24a14d623.png)
+![Profile_R](https://user-images.githubusercontent.com/83390923/130954833-e14a4c4d-4f07-4e4c-9fe9-43ac983f5bf9.jpg)
 
